@@ -5,7 +5,7 @@
       "nome": "Apresentação 1",
       "descricao": "Primeira apresentação BT",
       "arquivo": "apresentacao_1.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/apresentacoes/apresentacao_1.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_1.mp3",
       "tipo": "apresentacao",
       "comando": "apresentacao",
       "ativo": true
@@ -15,7 +15,7 @@
       "nome": "Apresentação 2",
       "descricao": "Segunda apresentação BT",
       "arquivo": "apresentacao_2.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/apresentacoes/apresentacao_2.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_2.mp3",
       "tipo": "apresentacao",
       "comando": "apresentacao",
       "ativo": true
@@ -25,7 +25,7 @@
       "nome": "Apresentação 3",
       "descricao": "Terceira apresentação BT",
       "arquivo": "apresentacao_3.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/apresentacoes/apresentacao_3.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_3.mp3",
       "tipo": "apresentacao",
       "comando": "apresentacao",
       "ativo": true
@@ -35,7 +35,7 @@
       "nome": "Apresentação 4",
       "descricao": "Quarta apresentação BT",
       "arquivo": "apresentacao_4.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/apresentacoes/apresentacao_4.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_4.mp3",
       "tipo": "apresentacao",
       "comando": "apresentacao",
       "ativo": true
@@ -45,7 +45,7 @@
       "nome": "Apresentação 5",
       "descricao": "Quinta apresentação BT",
       "arquivo": "apresentacao_5.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/apresentacoes/apresentacao_5.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_5.mp3",
       "tipo": "apresentacao",
       "comando": "apresentacao",
       "ativo": true
@@ -55,7 +55,7 @@
       "nome": "Apresentação 6",
       "descricao": "Sexta apresentação BT",
       "arquivo": "apresentacao_6.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/apresentacoes/apresentacao_6.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_6.mp3",
       "tipo": "apresentacao",
       "comando": "apresentacao",
       "ativo": true
@@ -65,7 +65,7 @@
       "nome": "Apresentação 7",
       "descricao": "Sétima apresentação BT",
       "arquivo": "apresentacao_7.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/apresentacoes/apresentacao_7.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_7.mp3",
       "tipo": "apresentacao",
       "comando": "apresentacao",
       "ativo": true
@@ -75,7 +75,7 @@
       "nome": "Apresentação 8",
       "descricao": "Oitava apresentação BT",
       "arquivo": "apresentacao_8.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/apresentacoes/apresentacao_8.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_8.mp3",
       "tipo": "apresentacao",
       "comando": "apresentacao",
       "ativo": true
@@ -85,7 +85,7 @@
       "nome": "Apresentação 9",
       "descricao": "Nona apresentação BT",
       "arquivo": "apresentacao_9.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/apresentacoes/apresentacao_9.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_9.mp3",
       "tipo": "apresentacao",
       "comando": "apresentacao",
       "ativo": true
@@ -95,7 +95,7 @@
       "nome": "Apresentação 10",
       "descricao": "Décima apresentação BT",
       "arquivo": "apresentacao_10.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/apresentacoes/apresentacao_10.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_10.mp3",
       "tipo": "apresentacao",
       "comando": "apresentacao",
       "ativo": true
@@ -105,7 +105,7 @@
       "nome": "Apresentação 11",
       "descricao": "Décima primeira apresentação BT",
       "arquivo": "apresentacao_11.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/apresentacoes/apresentacao_11.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_11.mp3",
       "tipo": "apresentacao",
       "comando": "apresentacao",
       "ativo": true
@@ -115,7 +115,7 @@
       "nome": "Apresentação 12",
       "descricao": "Décima segunda apresentação BT",
       "arquivo": "apresentacao_12.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/apresentacoes/apresentacao_12.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_12.mp3",
       "tipo": "apresentacao",
       "comando": "apresentacao",
       "ativo": true
@@ -124,7 +124,7 @@
   "configuracoes": {
     "versao": "1.0",
     "ultima_atualizacao": "2024-12-31",
-    "repositorio": "https://github.com/LucasNascimento25/audios-damas-bt",
+    "repositorio": "https://github.com/LucasNascimento25/audio-bt-apresentacao",
     "descricao": "Configuração de áudios de apresentação - Sistema de rotação para apresentações BT"
   }
 }
