@@ -459,46 +459,6 @@
       "tipo": "apresentacao",
       "comando": "apresentacao",
       "ativo": true
-    },
-    {
-      "id": "audio_apresentacao_47",
-      "nome": "Apresentação 47",
-      "descricao": "Quadragésima sétima apresentação BT",
-      "arquivo": "apresentacao_47.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_47.mp3",
-      "tipo": "apresentacao",
-      "comando": "apresentacao",
-      "ativo": true
-    },
-    {
-      "id": "audio_apresentacao_48",
-      "nome": "Apresentação 48",
-      "descricao": "Quadragésima oitava apresentação BT",
-      "arquivo": "apresentacao_48.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_48.mp3",
-      "tipo": "apresentacao",
-      "comando": "apresentacao",
-      "ativo": true
-    },
-    {
-      "id": "audio_apresentacao_49",
-      "nome": "Apresentação 49",
-      "descricao": "Quadragésima nona apresentação BT",
-      "arquivo": "apresentacao_49.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_49.mp3",
-      "tipo": "apresentacao",
-      "comando": "apresentacao",
-      "ativo": true
-    },
-    {
-      "id": "audio_apresentacao_50",
-      "nome": "Apresentação 50",
-      "descricao": "Quinquagésima apresentação BT",
-      "arquivo": "apresentacao_50.mp3",
-      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-bt-apresentacao/main/apresentacao_50.mp3",
-      "tipo": "apresentacao",
-      "comando": "apresentacao",
-      "ativo": true
     }
   ],
   "configuracoes": {
